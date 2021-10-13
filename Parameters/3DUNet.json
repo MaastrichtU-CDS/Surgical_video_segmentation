@@ -1,0 +1,12 @@
+{
+  "dataset":"Urta",
+  "json_path": "C:/Softwares/Codes/video_seg/Tools/dataset.json",
+  "structure": "3DUNet",
+  "max_epochs": 50,
+  "continue_training":true,
+  "Resize":512,
+  "batch_size": 10,
+  "learning_rate": 1e-4,
+  "val_interval":1,
+  "device_type":"cuda:0"
+}
