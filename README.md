@@ -4,7 +4,6 @@ Here is the code for surgical video segmentation
 
 The stucture and the images shows in imgs folder
 
-![test](https://gitlab.com/UM-CDS/Surgical_video_segmentation/-/blob/main/imgs/Figure_3.png)
 
 1. Traing.py : Training the segmentation model by this code. the parameter for training in the folder of Parameters
 2. Test.py   : Testomh the segmentation model by this code. the parameter for testing in the folder of Parameters
